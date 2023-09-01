@@ -1,4 +1,4 @@
-### Disha's First CS193 Homework
+## Disha's First CS193 Homework
 
 My Favorite Three Things About CS193:
 - The instructors and TAs explain all the concepts in a very understandable way
